@@ -14,4 +14,4 @@ Particle Swarm Optimization (PSO) algorithm is used to optimize the number of ma
 
 ## Notes
 - ".map" files are a type of ROS. Each .map file contains a byte array of integer values which forms a 2D map. The array is organized in row-major order. The files contain 2D map information at a constant 2048x2048 pixel resolution.
-- This project work was conducted for a thesis at Dokuz Eylül University - Computer Engineering Department in 2017.
+- This work was conducted for a thesis at Dokuz Eylül University - Computer Engineering Department in 2017.
